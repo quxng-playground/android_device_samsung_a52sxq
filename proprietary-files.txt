@@ -5,7 +5,6 @@ vendor/lib/hw/audio.primary.lahaina.so
 vendor/lib/libspeakercalibration.so
 vendor/lib/soundfx/libswdap.so
 vendor/firmware/dax_param.bin
-vendor/etc/SoundBoosterParam.txt
 vendor/etc/dolby/dax-default.xml
 
 # ACDB
